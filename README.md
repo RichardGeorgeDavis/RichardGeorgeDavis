@@ -1,18 +1,18 @@
 # Richard George Davis
 
-I build practical digital products, local-first workflows, and clean developer tooling.
+I design and build practical product systems, custom tooling, local-first workflows, and frontend prototypes.
 
-I focus on systems that stay portable, readable, and easy to run, especially across mixed-stack local environments.
+My work sits between product, operations, developer experience, and visual experimentation, turning messy processes into useful tools and turning ideas into working interactive prototypes.
 
-## Projects
+## Highlighted Project
 
-- [`Codex-Workspace`](https://github.com/RichardGeorgeDavis/Codex-Workspace) - a local workspace system for managing mixed-stack repositories with predictable structure, runtime visibility, and practical tooling support
+- [`Codex-Workspace`](https://github.com/RichardGeorgeDavis/Codex-Workspace) - a local workspace system for managing mixed-stack repositories with predictable structure, runtime visibility, and practical tooling support.
 
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RichardGeorgeDavis&show_icons=true&theme=default&cache_bust=20260321" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardGeorgeDavis&layout=compact&cache_bust=20260321" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RichardGeorgeDavis&show_icons=true&theme=default&cache_bust=20260321" width="51.2%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardGeorgeDavis&layout=compact&cache_bust=20260321" width="39%" />
 </p>
 
 ## Contact
