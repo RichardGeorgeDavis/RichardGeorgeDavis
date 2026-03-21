@@ -15,6 +15,6 @@ My work sits between product, operations, developer experience, and visual exper
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardGeorgeDavis&layout=compact&cache_bust=20260321" width="39%" />
 </p>
 
-## Contact
-
-- Email: [richard@lucidity.design](mailto:richard@lucidity.design)
+<p>
+  <img src="https://streak-stats.demolab.com?user=RichardGeorgeDavis&theme=default&cache_bust=20260321" width="90%" />
+</p>
