@@ -4,27 +4,16 @@ I build practical digital products, local-first workflows, and clean developer t
 
 I focus on systems that stay portable, readable, and easy to run, especially across mixed-stack local environments.
 
-## Current Focus
-
-- Building custom tooling for content, branding, and workflow automation
-- Improving local workspace structure for mixed-stack repositories
-- Shipping an email signature builder with tailored templates and export flows
-
-## Working With
-
-- Vue, Vite, TypeScript, Tailwind, and component-driven UI systems
-- Local development tooling, repo hygiene, and repeatable project structure
-- Product builds designed to stay practical, portable, and maintainable
-
 ## Projects
 
 - [`Codex-Workspace`](https://github.com/RichardGeorgeDavis/Codex-Workspace) - a local workspace system for managing mixed-stack repositories with predictable structure, runtime visibility, and practical tooling support
 
 ## GitHub Stats
 
-![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardGeorgeDavis&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardGeorgeDavis&layout=compact)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=RichardGeorgeDavis&show_icons=true&theme=default&cache_bust=20260321" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardGeorgeDavis&layout=compact&cache_bust=20260321" width="49%" />
+</p>
 
 ## Contact
 
