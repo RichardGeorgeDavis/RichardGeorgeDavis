@@ -20,6 +20,12 @@ I focus on systems that stay portable, readable, and easy to run, especially acr
 
 - [`Codex-Workspace`](https://github.com/RichardGeorgeDavis/Codex-Workspace) - a local workspace system for managing mixed-stack repositories with predictable structure, runtime visibility, and practical tooling support
 
+## GitHub Stats
+
+![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardGeorgeDavis&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardGeorgeDavis&layout=compact)
+
 ## Contact
 
 - Email: [richard@lucidity.design](mailto:richard@lucidity.design)
