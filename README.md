@@ -16,3 +16,5 @@ My work sits between product, operations, developer experience, and visual exper
 ![](https://komarev.com/ghpvc/?username=RichardGeorgeDavis&base=1000)
 
 [![Richard George Davis profile views](https://u8views.com/api/v1/github/profiles/10086577/views/day-week-month-total-count.svg)](https://u8views.com/github/RichardGeorgeDavis)
+
+![](https://hit.yhype.me/github/profile?account_id=10086577)
