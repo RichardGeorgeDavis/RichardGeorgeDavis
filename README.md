@@ -7,10 +7,25 @@ My work sits between product, operations, developer experience, and visual exper
 
 ## GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RichardGeorgeDavis&show_icons=true&theme=default&cache_bust=20260321" width="34.3%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardGeorgeDavis&layout=compact&cache_bust=20260321" width="26%" />
-  <img src="https://streak-stats.demolab.com?user=RichardGeorgeDavis&theme=default&cache_bust=20260321" width="36.5%" />
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RichardGeorgeDavis&show_icons=true&theme=default"
+    alt="Richard George Davis GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardGeorgeDavis&layout=compact"
+    alt="Top languages"
+    height="165"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://streak-stats.demolab.com?user=RichardGeorgeDavis&theme=default"
+    alt="GitHub streak"
+    height="165"
+  />
 </p>
 
 <!-- 
