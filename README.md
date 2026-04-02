@@ -2,8 +2,10 @@ I design and build practical product systems, custom tooling, local-first workfl
 
 My work sits between product, operations, developer experience, and visual experimentation, turning messy processes into useful tools and turning ideas into working interactive prototypes.
 
-## Highlighted Project
+## Highlights
 - [`Codex-Workspace`](https://github.com/RichardGeorgeDavis/Codex-Workspace) - a local workspace system for managing mixed-stack repositories with predictable structure, runtime visibility, and practical tooling support.
+- [`Prototypes`]([https://github.com/RichardGeorgeDavis/Codex-Workspace](https://proto.lucidity.design/)) - A public index of brand experience prototypes, visual experiments, and WebGL builds. Each entry links directly to a standalone prototype.
+
 
 ## GitHub Stats
 
