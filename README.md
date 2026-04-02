@@ -4,7 +4,7 @@ My work sits between product, operations, developer experience, and visual exper
 
 ## Highlights
 - [`Codex-Workspace`](https://github.com/RichardGeorgeDavis/Codex-Workspace) - a local workspace system for managing mixed-stack repositories with predictable structure, runtime visibility, and practical tooling support.
-- [`Prototypes`]([https://proto.lucidity.design) - A public index of brand experience prototypes, visual experiments, and WebGL builds. Each entry links directly to a standalone prototype.
+- [`Prototypes`](https://proto.lucidity.design) - A public index of brand experience prototypes, visual experiments, and WebGL builds. Each entry links directly to a standalone prototype.
 
 
 ## GitHub Stats
